@@ -1,6 +1,8 @@
 # assign1git
 Naythan Medari
 
-"First comment" 
+"First comment"
 
-"testbranch change" 
+This is a change on newbranch
+
+"testbranch change"
